@@ -4,3 +4,4 @@
 ##Week 2: Respondent Conditioning
 read Chance CH. 2
 ##Week 3: Operant Conditioning: Reinforcement
+###Week 4: more readings
